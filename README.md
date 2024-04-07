@@ -1,6 +1,3 @@
-Sure, here's a sample README.md file for your network scanning tool:
-
----
 
 # Network Scanner
 
