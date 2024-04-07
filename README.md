@@ -61,7 +61,3 @@ For more details on usage and available options, refer to the help section of th
 ## Disclaimer
 
 This tool is intended for educational and ethical use only. Any unauthorized or malicious use of this tool is strictly prohibited. The developers are not responsible for any misuse of this tool.
-
----
-
-Feel free to customize this README with additional information or instructions as needed.
